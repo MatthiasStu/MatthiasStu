@@ -16,4 +16,4 @@
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MatthiasStu)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/matthias-stute-664147305/)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=6)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatthiasStu&langs_count=6)
