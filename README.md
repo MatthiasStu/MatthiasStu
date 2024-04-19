@@ -2,7 +2,8 @@
 #### I am a Frontend-Webdeveloper from Germany
 I discovered my passion for programming through a coding bootcamp. From the moment I started, I was hooked. Learning new skills, diving into different frameworks, and exploring the vast world of coding became my daily adventure.
 
-Skills: HTML / CSS / JS / ANGULAR 
+## 🛠 Skills
+![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 
 
 
