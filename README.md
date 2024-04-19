@@ -1,6 +1,11 @@
 ### Hi there 👋 My name is Matthias Stute 
 #### I am a Frontend-Webdeveloper from Germany
-I discovered my passion for programming through a coding bootcamp. From the moment I started, I was hooked. Learning new skills, diving into different frameworks, and exploring the vast world of coding became my daily adventure.
+
+    🌎 Im based in Oldenburg Germany
+    💻 See my portfolio at (coming soon)
+    🚀 Im currently working on a firebase database for my angular based browser card game 
+    📧 You can contact me at matthiasstute@yahoo.de
+
 
 ## 🛠 Skills
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
