@@ -2,7 +2,7 @@
 #### I am a Frontend-Webdeveloper from Germany
 
     🌎 Im based in Oldenburg Germany
-    💻 See my portfolio at (coming soon)
+    💻 See my portfolio at [(coming soon)](https://matthias-stute.com/)
     🚀 Im currently working on a firebase database for my angular based browser card game 
     📧 You can contact me at matthiasstute@yahoo.de
 
